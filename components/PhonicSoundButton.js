@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Text, View, TouchableOpacity, StyleSheet } from 'react-native';
+import { Text, View, TouchableOpacity, StyleSheet, Image } from 'react-native';
 import { Audio } from 'expo-av';
 
 export default class PhonicSoundButton extends React.Component {
